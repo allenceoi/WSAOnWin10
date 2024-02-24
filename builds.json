@@ -1436,8 +1436,8 @@
         "arch": "x64",
         "root_sol": "magisk",
         "gapps_brand": "MindTheGapps",
-        "sha256": "e35d9f25a10875dfbd132c9c24c8aa2a0ea1e7dad1696953cbeec2490151c885",
-        "url": "https://github.com/Lyxot/WSAOnWin10/actions/runs/8028484118",
-        "timestamp": 1708753153.2240703
+        "sha256": "df60c7739cdd9d68418cda0b0c9f6f3116394f31407cb507d94235dd48a58085",
+        "url": "https://github.com/Lyxot/WSAOnWin10/actions/runs/8028886239",
+        "timestamp": 1708758516.633897
     }
 }
